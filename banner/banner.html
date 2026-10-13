@@ -1,0 +1,187 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<title>banner</title>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/wanteddev/wanted-sans@v1.0.3/packages/wanted-sans/fonts/webfonts/variable/split/WantedSansVariable.min.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500&display=swap">
+<style>
+  /* GitHub 라이트·다크 배경 위에 투명하게 올라가도록 글자·선 색만 테마별로 둔다 */
+  :root {
+    --ink: #1f2328;
+    --muted: #59636e;
+    --rule: #d1d9e0;
+    --jade: #0e7a5f;
+    --line: rgba(14, 122, 95, .42);
+  }
+  :root[data-theme="dark"] {
+    --ink: #e6edf3;
+    --muted: #9198a1;
+    --rule: #3d444d;
+    --jade: #4cc89a;
+    --line: rgba(76, 200, 154, .40);
+  }
+  html, body { margin: 0; background: transparent; }
+  body {
+    font-family: "Wanted Sans Variable", "Wanted Sans", system-ui, sans-serif;
+    color: var(--ink);
+    -webkit-font-smoothing: antialiased;
+  }
+
+  .banner {
+    position: relative;
+    width: 880px;
+    box-sizing: border-box;
+    padding: 8px 2px 10px;
+    display: grid;
+    grid-template-columns: 326px 150px 1fr 252px;
+    column-gap: 0;
+    align-items: center;
+  }
+
+  .intro {
+    align-self: stretch;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 6px 28px 6px 0;
+  }
+  .name { font-size: 17px; font-weight: 600; color: var(--muted); margin: 0 0 14px; letter-spacing: .01em; }
+  h1 {
+    margin: 0;
+    font-size: 29px;
+    line-height: 1.34;
+    font-weight: 720;
+    letter-spacing: -.025em;
+    word-break: keep-all;
+  }
+  .site { font-size: 14px; font-weight: 600; color: var(--jade); }
+
+  .entity {
+    position: relative;
+    z-index: 1;
+    border: 1px solid var(--rule);
+    border-radius: 7px;
+    overflow: hidden;
+  }
+  .head {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    padding: 7px 11px 6px;
+    border-bottom: 1px solid var(--rule);
+  }
+  .tbl { font-family: "JetBrains Mono", ui-monospace, monospace; font-size: 12px; font-weight: 500; }
+  .ko { font-size: 11px; color: var(--muted); }
+
+  .skills .row {
+    font-size: 12.5px;
+    height: 21px;
+    line-height: 21px;
+    padding: 0 11px;
+    border-top: 1px solid var(--rule);
+    white-space: nowrap;
+  }
+  .head + .row { border-top: 0; }
+
+  .exps .row { padding: 9px 12px 9px; border-top: 1px solid var(--rule); }
+  .exps .t { display: block; font-size: 13.5px; font-weight: 650; }
+  .exps .sub { display: block; font-size: 11.5px; color: var(--muted); margin-top: 2px; }
+
+  .join {
+    position: absolute;
+    top: 6px;
+    font-family: "JetBrains Mono", ui-monospace, monospace;
+    font-size: 11px;
+    color: var(--muted);
+    transform: translateX(-50%);
+  }
+
+  svg.lines { position: absolute; inset: 0; width: 100%; height: 100%; overflow: visible; }
+  svg.lines path { fill: none; stroke: var(--line); stroke-width: 1.15; }
+  svg.lines circle { fill: var(--jade); }
+</style>
+</head>
+<body>
+  <div class="banner">
+    <svg class="lines" aria-hidden="true"></svg>
+
+    <div class="intro">
+      <div>
+        <p class="name">정건희</p>
+        <h1>데이터가 어긋나지 않는<br>구조를 만드는<br>백엔드 개발자</h1>
+      </div>
+      <div class="site">donasman.github.io</div>
+    </div>
+
+    <div class="entity skills">
+      <div class="head"><span class="tbl">skills</span><span class="ko">기술</span></div>
+      <div class="row" data-rel="work lessontree">Java</div>
+      <div class="row" data-rel="work lessontree">Spring</div>
+      <div class="row" data-rel="lessontree">MyBatis</div>
+      <div class="row" data-rel="pitchlog fantasteel">TypeScript</div>
+      <div class="row" data-rel="pitchlog fantasteel">NestJS</div>
+      <div class="row" data-rel="pitchlog fantasteel">Prisma</div>
+      <div class="row" data-rel="work pitchlog fantasteel">PostgreSQL</div>
+      <div class="row" data-rel="lessontree">MySQL</div>
+      <div class="row" data-rel="work">Python</div>
+      <div class="row" data-rel="work">QGIS, ArcGIS</div>
+      <div class="row" data-rel="pitchlog fantasteel">Vitest, Jest</div>
+      <div class="row" data-rel="pitchlog lessontree">GitHub Actions</div>
+      <div class="row" data-rel="pitchlog lessontree">AWS EC2, S3</div>
+      <div class="row" data-rel="lessontree">Docker, Nginx</div>
+    </div>
+
+    <div class="gap"></div>
+    <div class="join">N : M</div>
+
+    <div class="entity exps">
+      <div class="head"><span class="tbl">experiences</span><span class="ko">경험</span></div>
+      <div class="row" data-id="work"><span class="t">도시재생 종합정보체계 유지관리</span><span class="sub">실무, 2024.09 – 2025.08</span></div>
+      <div class="row" data-id="pitchlog"><span class="t">PitchLog League</span><span class="sub">개인 프로젝트, 2026.08 – 2026.10</span></div>
+      <div class="row" data-id="fantasteel"><span class="t">FantaSteel ERP</span><span class="sub">팀 프로젝트 5인, 2026.09 – 2026.10</span></div>
+      <div class="row" data-id="lessontree"><span class="t">과외나무 LessonTree</span><span class="sub">팀 프로젝트 3인 팀장, 2024.04 – 2024.05</span></div>
+    </div>
+  </div>
+
+<script>
+  // 기술 행 오른쪽 끝에서 경험 행 왼쪽 끝까지 곡선을 잇는다
+  function draw() {
+    const banner = document.querySelector(".banner");
+    const svg = banner.querySelector("svg.lines");
+    const base = banner.getBoundingClientRect();
+    const NS = "http://www.w3.org/2000/svg";
+    svg.innerHTML = "";
+    const exps = {};
+    banner.querySelectorAll(".exps .row").forEach(r => {
+      const b = r.getBoundingClientRect();
+      exps[r.dataset.id] = { x: b.left - base.left, y: b.top - base.top + b.height / 2 };
+    });
+    const gap = banner.querySelector(".gap").getBoundingClientRect();
+    const join = banner.querySelector(".join");
+    join.style.left = (gap.left - base.left + gap.width / 2) + "px";
+
+    banner.querySelectorAll(".skills .row").forEach(r => {
+      const b = r.getBoundingClientRect();
+      const x1 = b.right - base.left, y1 = b.top - base.top + b.height / 2;
+      r.dataset.rel.split(" ").forEach(id => {
+        const { x: x2, y: y2 } = exps[id];
+        const dx = (x2 - x1) * 0.5;
+        const p = document.createElementNS(NS, "path");
+        p.setAttribute("d", `M${x1},${y1} C${x1 + dx},${y1} ${x2 - dx},${y2} ${x2},${y2}`);
+        svg.appendChild(p);
+      });
+      const c = document.createElementNS(NS, "circle");
+      c.setAttribute("cx", x1); c.setAttribute("cy", y1); c.setAttribute("r", 2);
+      svg.appendChild(c);
+    });
+    Object.values(exps).forEach(({ x, y }) => {
+      const c = document.createElementNS(NS, "circle");
+      c.setAttribute("cx", x); c.setAttribute("cy", y); c.setAttribute("r", 2.6);
+      svg.appendChild(c);
+    });
+  }
+  document.fonts.ready.then(() => { draw(); document.body.dataset.ready = "1"; });
+</script>
+</body>
+</html>
