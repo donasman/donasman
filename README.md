@@ -28,10 +28,10 @@
 
 | | 이름 | 구분 | 기간 | 코드 |
 |:-:|:--|:--|:--|:-:|
-| 🏙️ | [도시재생 종합정보체계 유지관리](https://donasman.github.io/#work) | 실무, 프리랜서(주임) | 2024.09 – 2025.08 | |
-| ⚽ | [PitchLog League](https://donasman.github.io/#pitchlog) | 개인 프로젝트 | 2026.08 – 2026.10 | [GitHub](https://github.com/donasman/pitchlog-league) |
-| 🏭 | [FantaSteel ERP](https://donasman.github.io/#fantasteel) | 팀 5인, 백엔드 기반 설계 | 2026.09 – 2026.10 | [GitHub](https://github.com/SteelFlowLLM/fantasteel-erp) |
-| 🌳 | [과외나무 LessonTree](https://donasman.github.io/#lessontree) | 팀 3인, 팀장 | 2024.04 – 2024.05 | [GitHub](https://github.com/test-2024-0402-team4) |
+| <img src="./assets/marks/work.svg" width="22" height="22" alt=""> | [도시재생 종합정보체계 유지관리](https://donasman.github.io/#work) | 실무, 아이티커넥 소속 프리랜서(주임) | 2024.09 – 2025.08 | |
+| <img src="./assets/marks/pitchlog.svg" width="22" height="22" alt=""> | [PitchLog League](https://donasman.github.io/#pitchlog) | 개인 프로젝트 | 2026.08 – 2026.10 | [GitHub](https://github.com/donasman/pitchlog-league) |
+| <img src="./assets/marks/fantasteel.svg" width="22" height="22" alt=""> | [FantaSteel ERP](https://donasman.github.io/#fantasteel) | 팀 5인, 백엔드 기반 설계 | 2026.09 – 2026.10 | [GitHub](https://github.com/SteelFlowLLM/fantasteel-erp) |
+| <img src="./assets/marks/lessontree.png" width="22" height="22" alt=""> | [과외나무 LessonTree](https://donasman.github.io/#lessontree) | 팀 3인, 팀장 | 2024.04 – 2024.05 | [GitHub](https://github.com/test-2024-0402-team4) |
 
 이름을 누르면 포트폴리오 사이트에서 문제와 해결 과정을 볼 수 있어요.
 
