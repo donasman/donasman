@@ -1,7 +1,7 @@
 <a href="https://donasman.github.io">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.png">
-    <img src="./assets/banner-light.png" width="100%" alt="정건희, 데이터가 어긋나지 않는 구조를 만드는 백엔드 개발자. 기술 14개를 실무 1건과 프로젝트 3건에 연결한 관계도">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg">
+    <img src="./assets/banner-light.svg" width="100%" alt="정건희, 데이터가 어긋나지 않는 구조를 만드는 백엔드 개발자. 기술 14개를 실무 1건과 프로젝트 3건에 연결한 관계도">
   </picture>
 </a>
 
