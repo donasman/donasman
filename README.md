@@ -1,7 +1,7 @@
 <a href="https://donasman.github.io">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg">
-    <img src="./assets/banner-light.svg" width="100%" alt="정건희, 데이터가 어긋나지 않는 구조를 만드는 백엔드 개발자. 기술 14개를 실무 1건과 프로젝트 3건에 연결한 관계도">
+    <img src="./assets/banner-light.svg" width="100%" alt="정건희 · 백엔드 개발자. 같은 요청이 두 번 와도, 결과는 한 번만 남깁니다. 기술 14개를 프로젝트 3건과 실무 1건에 연결한 관계도">
   </picture>
 </a>
 
@@ -15,7 +15,7 @@
 ## 🛠️ 기술 스택
 
 <table>
-  <tr><td><b>Backend</b></td><td><img src="https://skillicons.dev/icons?i=java,spring,ts,nestjs,prisma" height="40" alt="Java, Spring, TypeScript, NestJS, Prisma"> &nbsp;MyBatis</td></tr>
+  <tr><td><b>Backend</b></td><td><img src="https://skillicons.dev/icons?i=java,spring,ts,nestjs,prisma" height="40" alt="Java, Spring, TypeScript, NestJS, Prisma"> &nbsp;MyBatis, JPA</td></tr>
   <tr><td><b>Database</b></td><td><img src="https://skillicons.dev/icons?i=postgres,mysql,supabase" height="40" alt="PostgreSQL, MySQL, Supabase"></td></tr>
   <tr><td><b>Infra · CI/CD</b></td><td><img src="https://skillicons.dev/icons?i=aws,docker,nginx,linux,githubactions,vercel" height="40" alt="AWS, Docker, Nginx, Linux, GitHub Actions, Vercel"></td></tr>
   <tr><td><b>Test</b></td><td><img src="https://skillicons.dev/icons?i=jest,vitest" height="40" alt="Jest, Vitest"></td></tr>
@@ -24,13 +24,13 @@
   <tr><td><b>Tools</b></td><td><img src="https://skillicons.dev/icons?i=git,github,idea,eclipse,vscode,postman,notion" height="40" alt="Git, GitHub, IntelliJ IDEA, Eclipse, VS Code, Postman, Notion"></td></tr>
 </table>
 
-## 💼 경력과 프로젝트
+## 💼 프로젝트와 경력
 
 | | 이름 | 구분 | 기간 | 코드 |
 |:-:|:--|:--|:--|:-:|
+| <img src="./assets/marks/fantasteel.svg" width="22" height="22" alt=""> | [FantaSteel ERP](https://donasman.github.io/#fantasteel) | 포스코 K-뉴딜 아카데미 팀 5인, 서버 공통 기반·구매·Message → ERP | 2026.09 – 2026.10 | [GitHub](https://github.com/SteelFlowLLM/fantasteel-erp) |
+| <img src="./assets/marks/pitchlog.svg" width="22" height="22" alt=""> | [PitchLog League](https://donasman.github.io/#pitchlog) | 개인 프로젝트, 수집·API·운영 1인 | 2026.08 – 2026.10 | [GitHub](https://github.com/donasman/pitchlog-league) |
 | <img src="./assets/marks/work.svg" width="22" height="22" alt=""> | [도시재생 종합정보체계 유지관리](https://donasman.github.io/#work) | 실무, 아이티커넥 소속 프리랜서(주임) | 2024.09 – 2025.08 | |
-| <img src="./assets/marks/pitchlog.svg" width="22" height="22" alt=""> | [PitchLog League](https://donasman.github.io/#pitchlog) | 개인 프로젝트 | 2026.08 – 2026.10 | [GitHub](https://github.com/donasman/pitchlog-league) |
-| <img src="./assets/marks/fantasteel.svg" width="22" height="22" alt=""> | [FantaSteel ERP](https://donasman.github.io/#fantasteel) | 팀 5인, 백엔드 기반 설계 | 2026.09 – 2026.10 | [GitHub](https://github.com/SteelFlowLLM/fantasteel-erp) |
 | <img src="./assets/marks/lessontree.png" width="22" height="22" alt=""> | [과외나무 LessonTree](https://donasman.github.io/#lessontree) | 팀 3인, 팀장 | 2024.04 – 2024.05 | [GitHub](https://github.com/test-2024-0402-team4) |
 
 이름을 누르면 포트폴리오 사이트에서 문제와 해결 과정을 볼 수 있어요.
@@ -44,5 +44,5 @@
 
 ## 🌱 지금 하는 것
 
-- 🎓 K-뉴딜 아카데미 수강 중 (2026.08부터)
+- 🎓 포스코 K-뉴딜 아카데미 LLM 기반 스마트팩토리 AI Assistant 개발 과정 수강 중 (2026.08부터)
 - 📖 AI-Byte-Club 스터디: 『주니어 백엔드 개발자가 반드시 알아야 할 실무 지식』 챕터별 토론
