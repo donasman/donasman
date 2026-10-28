@@ -7,7 +7,7 @@
 
 <p>
   <a href="https://donasman.github.io"><img src="https://img.shields.io/badge/Portfolio-donasman.github.io-0E7A5F?style=flat-square&logo=githubpages&logoColor=white" alt="포트폴리오 사이트"></a>
-  <a href="https://donasman.github.io/assets/jeong-geonhui-backend-portfolio.pdf"><img src="https://img.shields.io/badge/PDF-%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4-0E7A5F?style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="PDF 포트폴리오"></a>
+  <a href="https://donasman.github.io/assets/jeong-geonhui-backend-portfolio.pdf"><img src="https://img.shields.io/badge/PDF-%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4%202026--10--28-0E7A5F?style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="PDF 포트폴리오"></a>
   <a href="mailto:rjsgmlq33@gmail.com"><img src="https://img.shields.io/badge/Gmail-rjsgmlq33%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="메일 rjsgmlq33@gmail.com"></a>
   <a href="https://solved.ac/rjsgmlq33"><img src="https://img.shields.io/badge/solved.ac-rjsgmlq33-17CE3A?style=flat-square" alt="solved.ac rjsgmlq33"></a>
 </p>
