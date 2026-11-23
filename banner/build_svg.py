@@ -91,7 +91,7 @@ MEASURE_JS = r"""
 }
 """
 
-EXP_ORDER = ["work", "pitchlog", "fantasteel", "lessontree"]
+EXP_ORDER = ["fantasteel", "pitchlog", "readme", "work", "hansotbap", "lessontree"]
 
 
 def ensure_fonts():

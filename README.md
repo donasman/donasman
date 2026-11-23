@@ -1,13 +1,13 @@
 <a href="https://donasman.github.io">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg">
-    <img src="./assets/banner-light.svg" width="100%" alt="정건희 · 백엔드 개발자. 같은 요청이 두 번 와도, 결과는 한 번만 남깁니다. 기술 14개를 프로젝트 3건과 실무 1건에 연결한 관계도">
+    <img src="./assets/banner-light.svg" width="100%" alt="정건희 · 백엔드 개발자. 같은 요청이 두 번 와도, 결과는 한 번만 남깁니다. 기술 14개를 프로젝트 5건과 실무 1건에 연결한 관계도">
   </picture>
 </a>
 
 <p>
   <a href="https://donasman.github.io"><img src="https://img.shields.io/badge/Portfolio-donasman.github.io-0E7A5F?style=flat-square&logo=githubpages&logoColor=white" alt="포트폴리오 사이트"></a>
-  <a href="https://donasman.github.io/assets/jeong-geonhui-backend-portfolio.pdf"><img src="https://img.shields.io/badge/PDF-%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4%202026--10--28-0E7A5F?style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="PDF 포트폴리오"></a>
+  <a href="https://donasman.github.io/assets/jeong-geonhui-backend-portfolio.pdf"><img src="https://img.shields.io/badge/PDF-%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4%202026--11--24-0E7A5F?style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="PDF 포트폴리오"></a>
   <a href="mailto:rjsgmlq33@gmail.com"><img src="https://img.shields.io/badge/Gmail-rjsgmlq33%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="메일 rjsgmlq33@gmail.com"></a>
   <a href="https://solved.ac/rjsgmlq33"><img src="https://img.shields.io/badge/solved.ac-rjsgmlq33-17CE3A?style=flat-square" alt="solved.ac rjsgmlq33"></a>
 </p>
@@ -15,11 +15,11 @@
 ## 🛠️ 기술 스택
 
 <table>
-  <tr><td><b>Backend</b></td><td><img src="https://skillicons.dev/icons?i=java,spring,ts,nestjs,prisma" height="40" alt="Java, Spring, TypeScript, NestJS, Prisma"> &nbsp;MyBatis, JPA</td></tr>
+  <tr><td><b>Backend</b></td><td><img src="https://skillicons.dev/icons?i=java,spring,ts,nestjs,prisma" height="40" alt="Java, Spring, TypeScript, NestJS, Prisma"> &nbsp;Spring Security, Spring Batch, MyBatis, JPA</td></tr>
   <tr><td><b>Database</b></td><td><img src="https://skillicons.dev/icons?i=postgres,mysql,supabase" height="40" alt="PostgreSQL, MySQL, Supabase"></td></tr>
   <tr><td><b>Infra · CI/CD</b></td><td><img src="https://skillicons.dev/icons?i=aws,docker,nginx,linux,githubactions,vercel" height="40" alt="AWS, Docker, Nginx, Linux, GitHub Actions, Vercel"></td></tr>
-  <tr><td><b>Test</b></td><td><img src="https://skillicons.dev/icons?i=jest,vitest" height="40" alt="Jest, Vitest"></td></tr>
-  <tr><td><b>Data · GIS</b></td><td><img src="https://skillicons.dev/icons?i=py" height="40" alt="Python"> &nbsp;QGIS, ArcGIS</td></tr>
+  <tr><td><b>Test</b></td><td><img src="https://skillicons.dev/icons?i=jest,vitest" height="40" alt="Jest, Vitest"> &nbsp;JUnit, Testcontainers</td></tr>
+  <tr><td><b>Data · GIS</b></td><td><img src="https://skillicons.dev/icons?i=py" height="40" alt="Python"> &nbsp;FastAPI, QGIS, ArcGIS</td></tr>
   <tr><td><b>Frontend</b></td><td><img src="https://skillicons.dev/icons?i=react" height="40" alt="React"></td></tr>
   <tr><td><b>Tools</b></td><td><img src="https://skillicons.dev/icons?i=git,github,idea,eclipse,vscode,postman,notion" height="40" alt="Git, GitHub, IntelliJ IDEA, Eclipse, VS Code, Postman, Notion"></td></tr>
 </table>
@@ -30,7 +30,9 @@
 |:-:|:--|:--|:--|:-:|
 | <img src="./assets/marks/fantasteel.svg" width="22" height="22" alt=""> | [FantaSteel ERP](https://donasman.github.io/#fantasteel) | 포스코 K-뉴딜 아카데미 팀 5인, 서버 공통 기반·구매·Message → ERP | 2026.09 – 2026.10 | [GitHub](https://github.com/SteelFlowLLM/fantasteel-erp) |
 | <img src="./assets/marks/pitchlog.svg" width="22" height="22" alt=""> | [PitchLog League](https://donasman.github.io/#pitchlog) | 개인 프로젝트, 수집·API·운영 1인 | 2026.08 – 2026.10 | [GitHub](https://github.com/donasman/pitchlog-league) |
+| <img src="./assets/marks/readme.svg" width="22" height="22" alt=""> | [리드미](https://donasman.github.io/#readme) | 개인 프로젝트, 취업준비생 정보공유 서비스의 Spring Boot 서버와 화면 | 2026.11 – 현재 | [GitHub](https://github.com/donasman/readme-project) |
 | <img src="./assets/marks/work.svg" width="22" height="22" alt=""> | [도시재생 종합정보체계 유지관리](https://donasman.github.io/#work) | 실무, 아이티커넥 소속 프리랜서(주임) | 2024.09 – 2025.08 | |
+| <img src="./assets/marks/hansotbap.svg" width="22" height="22" alt=""> | [한솥밥](https://donasman.github.io/#hansotbap) | 포스코 K-뉴딜 아카데미 해커톤 5인, 대상·개인상 2위. 계획서 추출, 충돌 판정 규칙 엔진 | 2026.11 | [GitHub](https://github.com/posco-hackathon/hansotbap) |
 | <img src="./assets/marks/lessontree.png" width="22" height="22" alt=""> | [과외나무 LessonTree](https://donasman.github.io/#lessontree) | 팀 3인, 팀장 | 2024.04 – 2024.05 | [GitHub](https://github.com/test-2024-0402-team4) |
 
 이름을 누르면 포트폴리오 사이트에서 문제와 해결 과정을 볼 수 있어요.
@@ -44,5 +46,6 @@
 
 ## 🌱 지금 하는 것
 
+- 🛠️ 리드미: 취업준비생이 채용 공고와 지원 현황, 경험카드를 한곳에서 관리하는 서비스를 Java 21·Spring Boot 4로 개발 중
 - 🎓 포스코 K-뉴딜 아카데미 LLM 기반 스마트팩토리 AI Assistant 개발 과정 수강 중 (2026.08부터)
 - 📖 AI-Byte-Club 스터디: 『주니어 백엔드 개발자가 반드시 알아야 할 실무 지식』 챕터별 토론
