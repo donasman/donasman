@@ -15,11 +15,11 @@
 ## 🛠️ 기술 스택
 
 <table>
-  <tr><td><b>Backend</b></td><td><img src="https://skillicons.dev/icons?i=java,spring,ts,nestjs,prisma" height="40" alt="Java, Spring, TypeScript, NestJS, Prisma"> &nbsp;Spring Security, Spring Batch, MyBatis, JPA</td></tr>
+  <tr><td><b>Backend</b></td><td><img src="https://skillicons.dev/icons?i=java,spring,hibernate,ts,nestjs,prisma" height="40" alt="Java, Spring, JPA(Hibernate), TypeScript, NestJS, Prisma"><img src="./assets/icons/backend.svg" height="40" alt="Spring Security, Spring Batch, MyBatis"></td></tr>
   <tr><td><b>Database</b></td><td><img src="https://skillicons.dev/icons?i=postgres,mysql,supabase" height="40" alt="PostgreSQL, MySQL, Supabase"></td></tr>
   <tr><td><b>Infra · CI/CD</b></td><td><img src="https://skillicons.dev/icons?i=aws,docker,nginx,linux,githubactions,vercel" height="40" alt="AWS, Docker, Nginx, Linux, GitHub Actions, Vercel"></td></tr>
-  <tr><td><b>Test</b></td><td><img src="https://skillicons.dev/icons?i=jest,vitest" height="40" alt="Jest, Vitest"> &nbsp;JUnit, Testcontainers</td></tr>
-  <tr><td><b>Data · GIS</b></td><td><img src="https://skillicons.dev/icons?i=py" height="40" alt="Python"> &nbsp;FastAPI, QGIS, ArcGIS</td></tr>
+  <tr><td><b>Test</b></td><td><img src="https://skillicons.dev/icons?i=jest,vitest" height="40" alt="Jest, Vitest"><img src="./assets/icons/test.svg" height="40" alt="JUnit, Testcontainers"></td></tr>
+  <tr><td><b>Data · GIS</b></td><td><img src="https://skillicons.dev/icons?i=py,fastapi" height="40" alt="Python, FastAPI"><img src="./assets/icons/gis.svg" height="40" alt="QGIS, ArcGIS"></td></tr>
   <tr><td><b>Frontend</b></td><td><img src="https://skillicons.dev/icons?i=react" height="40" alt="React"></td></tr>
   <tr><td><b>Tools</b></td><td><img src="https://skillicons.dev/icons?i=git,github,idea,eclipse,vscode,postman,notion" height="40" alt="Git, GitHub, IntelliJ IDEA, Eclipse, VS Code, Postman, Notion"></td></tr>
 </table>
