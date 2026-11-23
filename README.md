@@ -15,7 +15,7 @@
 ## 🛠️ 기술 스택
 
 <table>
-  <tr><td><b>Backend</b></td><td><img src="https://skillicons.dev/icons?i=java,spring,hibernate,ts,nestjs,prisma" height="40" alt="Java, Spring, JPA(Hibernate), TypeScript, NestJS, Prisma"><img src="./assets/icons/backend.svg" height="40" alt="Spring Security, Spring Batch, MyBatis"></td></tr>
+  <tr><td><b>Backend</b></td><td><img src="https://skillicons.dev/icons?i=java,spring,ts,nestjs,prisma" height="40" alt="Java, Spring, TypeScript, NestJS, Prisma"></td></tr>
   <tr><td><b>Database</b></td><td><img src="https://skillicons.dev/icons?i=postgres,mysql,supabase" height="40" alt="PostgreSQL, MySQL, Supabase"></td></tr>
   <tr><td><b>Infra · CI/CD</b></td><td><img src="https://skillicons.dev/icons?i=aws,docker,nginx,linux,githubactions,vercel" height="40" alt="AWS, Docker, Nginx, Linux, GitHub Actions, Vercel"></td></tr>
   <tr><td><b>Test</b></td><td><img src="https://skillicons.dev/icons?i=jest,vitest" height="40" alt="Jest, Vitest"><img src="./assets/icons/test.svg" height="40" alt="JUnit, Testcontainers"></td></tr>
